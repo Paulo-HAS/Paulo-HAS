@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Paulo Silva. IT Tech, Automation Engineering student and big-dreamer.
-- 🌱 I’m currently learning ARM Templates, ROS, Python and some other programming languages. 🔼
-- 🏢 Currently I'm working at RHI Magnesita as a CCoE Intern.
+- 🌱 I’m currently learning Python, C++ and Node.js. 🔼
 - 📫 You can contact me through:
 Email: paulohenriqueas006@gmail.com
 linkedin: https://www.linkedin.com/in/phas-006/
