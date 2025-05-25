@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paulo Silva. Developer, Roboticist, Automation Engineer and big-dreamer.
-- 🌱 I’m currently working my skills in ML, ROS and JS. 🔼
+- 🌱 I’m currently working my skills in ML, ROS and Computer Vision. 🔼
 - 📫 You can contact me through:
 Email: paulohenriqueas006@gmail.com
 linkedin: https://www.linkedin.com/in/phas-006/
